@@ -1,0 +1,44 @@
+html, body{
+  text-align: center;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-evenly;
+  width: 50vw;
+  margin: 100px auto;
+}
+
+.icon {
+  height: 40px;
+  width: 40px;
+}
+
+header {
+ margin: 10vh auto;
+}
+
+.riz-header {
+  height: 200px;
+  width: 200px;
+}
+
+.terminal {
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  text-align: left;
+}
+
+footer{
+  position:fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+.riz-footer {
+  height: 30px;
+  width: 30px;
+}
