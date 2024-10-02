@@ -1,2 +1,2 @@
-# rizdu.github.io
-learning as I go
+# rizdu
+learning as I go, one serving at a time...
